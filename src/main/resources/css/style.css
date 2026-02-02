@@ -1,0 +1,13 @@
+#title {
+    -fx-text-fill: #386BA0;
+}
+
+.red-border {
+    -fx-border-color: red;
+    -fx-border-width: 2px;
+}
+
+.blue-border {
+    -fx-border-color: blue;
+    -fx-border-width: 2px;
+}
