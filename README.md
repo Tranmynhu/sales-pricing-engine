@@ -6,30 +6,10 @@ This is a **JavaFX** application that calculates sales pricing details for custo
 
 ## Features
 -Automatically displays the **current date** when the app opens.
--Allows user input for:
-  Customer name
-  Salesperson name
-  Item description
-  List price
-  Discount rate
-  Sales tax rate
-  Shipping fee
-  Commission rate
--Click **Calculate Total** button to display:
-  Total discount
-  Net price
-  Sales tax
-  Shipping fee
-  Commision fee
-  Expiration date for returns
-  Total price
+-Allows user input for: Customer name, Salesperson name, Item description, List price, Discount rate, Sales tax rate, Shipping fee, and Commission rate.
+-Click **Calculate Total** button to display: Total discount, Net price, Sales tax, Shipping fee, Commision fee, Expiration date for returns, and Total price. 
 -Click **Clear** button to reset all input fields. 
--Default values after clearing: 
-  Discount rate (%): 10
-  Sales tax rate (%): 10
-  Shipping fee ($): 50
-  Commission rate (%): 10
-- These default values can be modified by the user.
+-Default values after clearing: Discount rate (%): 10, Sales tax rate (%): 10, Shipping fee ($): 50, and Commission rate (%): 10. These default values can be modified by the user.
 
 ## Technologies Used
 -Java for core programming language
